@@ -15,5 +15,5 @@ tags:
 - word_representations
 links:
 url_pdf: 'http://arxiv.org/abs/1608.05528'
-url_slides: 'papers/context_config/context_config_slides.pdf'
+url_slides: 'slides.pdf'
 ---

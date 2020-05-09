@@ -12,7 +12,7 @@ abstract: "State-of-the-art word embeddings, which are often trained on bag-of-w
 tags:
 - word_representations
 links:
-url_pdf: 'papers/sp_sg/sp_sg_naacl_camera_ready.pdf'
-url_poster: 'papers/sp_sg/sp_sg_naacl_poster.pdf'
-url_code: 'papers/sp_sg/sp_sg.html'
+url_pdf: 'https://www.aclweb.org/anthology/N16-1060.pdf'
+url_poster: 'poster.pdf'
+url_code: 'code.html'
 ---

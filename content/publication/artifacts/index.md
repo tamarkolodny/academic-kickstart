@@ -16,5 +16,5 @@ tags:
 - improved_evaluation
 links:
 url_pdf: 'http://arxiv.org/abs/1803.02324'
-url_poster: 'papers/artifacts/artifacts_poster.pdf'
+url_poster: 'poster.pdf'
 ---

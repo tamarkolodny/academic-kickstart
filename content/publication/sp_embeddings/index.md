@@ -12,8 +12,8 @@ abstract: "We present a novel word level vector representation based on symmetri
 tags:
 - word_representations
 links:
-url_pdf: 'papers/sp_embeddings/sp_embeddings_conll.pdf'
-url_slides: 'papers/sp_embeddings/sp_embeddings_slides.pdf'
+url_pdf: 'https://www.aclweb.org/anthology/K15-1026.pdf'
+url_slides: 'slides.pdf'
 url_video: 'http://techtalks.tv/talks/symmetric-pattern-based-word-embeddings-for-improved-word-similarity-prediction/61868/'
-url_code: 'papers/sp_embeddings/sp_embeddings.html'
+url_code: 'code.html'
 ---

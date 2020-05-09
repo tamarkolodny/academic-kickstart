@@ -13,7 +13,7 @@ abstract: "Dependency parsing is a central NLP task. In this paper we show that 
 tags:
 - improved_evaluation
 links:
-url_pdf: 'papers/ned/ned_camera_ready.pdf'
-url_slides: 'papers/ned/ned_acl_slides.pdf'
-url_code: 'software/ned.html'
+url_pdf: 'https://www.aclweb.org/anthology/P11-1067.pdf'
+url_slides: 'slides.pdf'
+url_code: 'code.html'
 ---

@@ -16,5 +16,5 @@ abstract: "Peer reviewing is a central component in the scientific publishing pr
 links:
 url_pdf: 'http://arxiv.org/abs/1804.09635'
 url_dataset: 'https://github.com/allenai/PeerRead'
-url_poster: 'papers/peeread/peeread_poster.pdf'
+url_poster: 'poster.pdf'
 ---

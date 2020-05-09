@@ -10,5 +10,5 @@ abstract: ""
 tags:
 - word_representations
 links:
-url_pdf: 'papers/roy_schwartz_phd_dissertation.pdf'
+url_pdf: 'publication/thesis/paper.pdf'
 ---

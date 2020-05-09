@@ -18,6 +18,6 @@ tags:
 - improved_evaluation
 links:
 url_pdf: 'http://arxiv.org/abs/1702.01841'
-url_poster: 'papers/language_constraint/language_constraint_poster.pdf'
+url_poster: 'poster.pdf'
 url_code: 'https://github.com/roys174/writing_style'
 ---

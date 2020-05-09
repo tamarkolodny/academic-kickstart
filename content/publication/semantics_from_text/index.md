@@ -14,6 +14,6 @@ abstract: "In recent years, distributional models (DMs) have shown great success
 tags:
 - word_representations
 links:
-url_pdf: 'papers/semantics_from_text/semantics_from_text.pdf'
-url_poster: 'papers/semantics_from_text/semantics_from_text_poster.pdf'
+url_pdf: 'https://www.aclweb.org/anthology/P15-2119.pdf'
+url_poster: 'poster.pdf'
 ---

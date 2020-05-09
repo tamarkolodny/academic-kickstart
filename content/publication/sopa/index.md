@@ -13,6 +13,6 @@ tags:
 - understanding_models 
 links:
 url_pdf: 'https://arxiv.org/abs/1805.06061'
-url_poster: 'papers/sopa/sopa_poster.pdf'
+url_poster: 'poster.pdf'
 url_code: 'https://github.com/Noahs-ARK/soft_patterns'
 ---

@@ -102,6 +102,7 @@ def main(args):
                         current_paper[j] = v
                         break
 
+                    
 
     save_paper(current_paper, odir)
 
@@ -109,16 +110,23 @@ def main(args):
 
 def save_paper(paper, odir):
     publication_type = 1
-    print(paper)
     if 'name' not in paper:
         print('no name in ', paper)
     d = odir+"/"+paper["name"]
     try:
         os.mkdir(d)
     except FileExistsError:
-
         pass
 
+    for k in ['poster', 'slides']:
+        if k in paper and not paper[k].startswith('http'):
+            paper[k] = k+'.pdf'
+    
+    k = 'code'
+    if k in paper and not paper[k].startswith('http'):
+        paper[k] = k+'.html'
+    print(paper)
+    
     shutil.copyfile('/Users/roysch/code/roys174.github.io/'+paper['bib'], d+"/cite.bib")
 
     with open(d+'/index.md', 'w') as ofh:
@@ -148,6 +156,7 @@ def save_paper(paper, odir):
             publication_type = 3
         elif paper['name'] == 'thesis':
             date= "2016-06-01"
+            paper['pdf'] = 'publication/thesis/paper.pdf'
             ofh.write('publication: PhD Thesis\n')
             publication_type = 7
 
