@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maarten Sap
+title: <a href='http://homes.cs.washington.edu/~msap/' target='blank'>Maarten Sap</a>
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Oren Etzioni
+title: <a href='http://allenai.org/team/orene/' target='blank'>Oren Etzioni</a>
 
 # Username (this should match the folder name)
 authors:

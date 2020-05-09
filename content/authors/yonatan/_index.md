@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yonatan Bisk
+title: <a href='http://yonatanbisk.com/' target='blank'>Yonatan Bisk</a>
 
 # Username (this should match the folder name)
 authors:

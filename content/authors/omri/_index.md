@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Omri Abend
+title: <a href='http://www.cs.huji.ac.il/~oabend/' target='blank'>Omri Abend</a>
 
 # Username (this should match the folder name)
 authors:

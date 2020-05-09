@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Will Merrill
+title: <a href='https://lambdaviking.com' target='blank'>Will Merrill</a>
 
 # Username (this should match the folder name)
 authors:

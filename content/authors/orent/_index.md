@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Oren Tsur
+title: <a href='http://www.ise.bgu.ac.il/OrenTsur/' target='blank'>Oren Tsur</a>
 
 # Username (this should match the folder name)
 authors:

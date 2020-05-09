@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Roi Reichart
+title: <a href='http://ie.technion.ac.il/~roiri/' target='blank'>Roi Reichart</a>
 
 # Username (this should match the folder name)
 authors:

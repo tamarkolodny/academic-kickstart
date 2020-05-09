@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gabi Stanovsky
+title: <a href='https://gabrielstanovsky.github.io' target='blank'>Gabi Stanovsky</a>
 
 # Username (this should match the folder name)
 authors:

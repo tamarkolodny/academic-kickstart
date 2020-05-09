@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ivan Vulić
+title: <a href='https://sites.google.com/site/ivanvulic/' target='blank'>Ivan Vulić</a>
 
 # Username (this should match the folder name)
 authors:

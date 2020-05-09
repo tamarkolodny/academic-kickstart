@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yannis Konstas
+title: <a href='http://www.ikonstas.net/' target='blank'>Yannis Konstas</a>
 
 # Username (this should match the folder name)
 authors:

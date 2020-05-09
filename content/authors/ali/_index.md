@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ali Farhadi
+title: <a href='https://homes.cs.washington.edu/~ali/' target='blank'>Ali Farhadi</a>
 
 # Username (this should match the folder name)
 authors:

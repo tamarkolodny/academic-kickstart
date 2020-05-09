@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Noah A. Smith
+title: <a href='http://homes.cs.washington.edu/~nasmith/' target='blank'>Noah A. Smith</a>
 
 # Username (this should match the folder name)
 authors:
