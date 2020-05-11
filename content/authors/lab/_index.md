@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Natural Language Processing
 
 # Organizations/Affiliations
 organizations:
@@ -29,6 +29,9 @@ social:
 - icon: semantic-scholar
   icon_pack: ai
   link: https://www.semanticscholar.org/author/Roy-Schwartz/4671928
+- icon: cv
+  icon_pack: ai
+  link: files/CV.pdf
 
 # Short bio (displayed in user profile at end of posts)
 

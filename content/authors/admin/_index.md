@@ -14,6 +14,31 @@ superuser: true
 # Organizations/Affiliations
 Description: author/roy-schwartz
 
+# Role/position
+role: Professor of Natural Language Processing
+
+# Organizations/Affiliations
+organizations:
+- name: The Hebrew University of Jerusalem
+  url: ""
+
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:roys@allenai.org'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/royschwartz02
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=wvfWo9IAAAAJ&hl=en
+- icon: semantic-scholar
+  icon_pack: ai
+  link: https://www.semanticscholar.org/author/Roy-Schwartz/4671928
+- icon: cv
+  icon_pack: ai
+  link: files/CV.pdf
+
 
 # education:
 #   courses:
@@ -48,7 +73,7 @@ user_groups:
 
 <div style='text-align:justify'>
 <h1>Bio</h1>
-Roy Schwartz is a research scientist at the <a href="http://allennlp.org/" target="_blank">AllenNLP team</a> at the Allen institute for AI and at <a href="http://www.cs.washington.edu/" target="_blank">the school of computer science and engineering</a> at The University of Washington.
+Roy Schwartz is a research scientist at the <a href="http://allennlp.org/" target="_blank">AllenNLP team</a> at the Allen institute for AI and at <a href="http://www.cs.washington.edu/" target="_blank">the school of computer science and engineering</a> at The University of Washington, where he was a postdoc working with <a href="https://homes.cs.washington.edu/~nasmith/" target="_blank">Noah A. Smith</a> in 2016-2019.
 He will be joining  <a href="http://www.cs.huji.ac.il" target="_blank">the School of Computer Science and Engineering</a> faculty
 of The Hebrew University of Jerusalem in September 2020.  
 Roy completed his Ph.D. at the School of Computer Science and EngineeringThe Hebrew University of Jerusalem, where he worked with <a href="http://www.cs.huji.ac.il/~arir" target="_blank">Prof. Ari Rappoport</a>.
@@ -62,6 +87,7 @@ In 2004-2005, he was a software engineer at <a href="http://www.checkpoint.com/"
 
 <h1>Teaching</h1>
 
+* Lecturer, Object Oriented Programming; Israeli Council of Higher Education Program for Online Digital Learning (2018-2020)
 * Guest talk on distributional semantics at UW NLP course (spring 2017, <a href="http://courses.cs.washington.edu/courses/csep517/17sp/slides/lecture8a.pdf" target="_blank">slides</a>, <a href="https://www.youtube.com/watch?v=cF6n_Gm05os" target="_blank">video</a>)
 * UW-NLP RNN Reading Group (spring 2017)
 * UW-NLP Discourse Reading Group (winter 2017)
