@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 
 # Organizations/Affiliations
-Description: author/roy-schwartz
+Description: ../author/roy-schwartz
 
 # Role/position
 role: Professor of Natural Language Processing
