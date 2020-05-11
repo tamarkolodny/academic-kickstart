@@ -4,7 +4,7 @@
 Title: Yarden Tal
 # Username (this should match the folder name)
 authors:
-- admin
+- yarden
 
 # Is this the primary user of the site?
 superuser: false

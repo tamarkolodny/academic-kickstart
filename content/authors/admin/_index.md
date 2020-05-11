@@ -14,10 +14,6 @@ superuser: true
 # Organizations/Affiliations
 Description: author/roy-schwartz
 
-interests:
-- Natural Language Processing
-- Artificial Intelligence
-- Machine Learning
 
 # education:
 #   courses:
