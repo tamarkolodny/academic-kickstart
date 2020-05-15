@@ -39,7 +39,7 @@
 
     <h3 class="article-title mb-0 mt-0">
 	{{ if $link_title }}
-	      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+	      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify }}</a>
 	{{ else }}
 	      {{ $item.Title }}
 	{{ end }}
