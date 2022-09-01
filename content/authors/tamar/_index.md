@@ -37,6 +37,5 @@ social:
 
 ---
 <div style='text-align:justify'>
-change me content/authors/tamar
 </div>
 
