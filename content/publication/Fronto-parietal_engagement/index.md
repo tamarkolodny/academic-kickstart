@@ -1,7 +1,7 @@
 ---
 title: 'Fronto-parietal engagement in response inhibition is inversely scaled with attention-deficit/hyperactivity disorder symptom severity'
 authors: 
-- Tamar Kolodny
+- admin
 - Carmel Mevorach
 - Pnina Stern
 - Natalie Biderman

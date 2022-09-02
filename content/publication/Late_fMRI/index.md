@@ -2,7 +2,7 @@
 title: 'Late fMRI response components are altered in autism spectrum disorder'
 authors: 
 - Scott O Murray
-- Tamar Kolodny
+- admin
 - Michael-Paul Schallmo
 - Jennifer Gerdts
 - Raphael A Bernier

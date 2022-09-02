@@ -1,7 +1,7 @@
 ---
 title: 'Concentrations of cortical GABA and glutamate in young adults with autism spectrum disorder'
 authors: 
-- Tamar Kolodny
+- admin
 - Michael‐Paul Schallmo
 - Jennifer Gerdts
 - Richard AE Edden

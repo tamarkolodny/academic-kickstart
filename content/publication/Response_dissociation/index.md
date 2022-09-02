@@ -1,7 +1,7 @@
 ---
 title: 'Response dissociation in hierarchical cortical circuits: a unique feature of autism spectrum disorder'
 authors: 
-- Tamar Kolodny
+- admin
 - Michael-Paul Schallmo
 - Jennifer Gerdts
 - Raphael A Bernier

@@ -2,7 +2,7 @@
 title: 'Reduced auditory cortical adaptation in autism spectrum disorder'
 authors: 
 - Rachel Millin
-- Tamar Kolodny
+- admin
 - Anastasia V Flevaris
 - Alexander M Kale
 - Michael-Paul Schallmo

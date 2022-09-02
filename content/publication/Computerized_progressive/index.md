@@ -1,7 +1,7 @@
 ---
 title: 'Computerized progressive attention training (CPAT) vs. active control in adults with ADHD'
 authors: 
-- Tamar Kolodny
+- admin
 - Yael Ashkenazi
 - Moran Farhi
 - Lilach Shalev

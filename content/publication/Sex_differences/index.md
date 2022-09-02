@@ -3,7 +3,7 @@ title: 'Sex differences in visual motion processing'
 authors: 
 - Scott O Murray
 - Michael-Paul Schallmo
-- Tamar Kolodny
+- admin
 - Rachel Millin
 - Alex Kale
 - Philipp Thomas

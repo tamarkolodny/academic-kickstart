@@ -1,7 +1,7 @@
 ---
 title: 'Are attention and cognitive control altered by fMRI scanner environment? Evidence from Go/No-go tasks in ADHD'
 authors: 
-- Tamar Kolodny
+- admin
 - Carmel Mevorach
 - Pnina Stern
 - Maya Ankaoua

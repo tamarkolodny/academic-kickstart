@@ -2,7 +2,7 @@
 title: 'Disrupted neural adaptation in autism spectrum disorder'
 authors: 
 - Rachel Millin
-- Tamar Kolodny
+- admin
 - Anastasia V Flevaris
 - Alex M Kale
 - Michael-Paul Schallmo

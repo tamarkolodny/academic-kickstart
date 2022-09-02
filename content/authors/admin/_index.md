@@ -1,7 +1,7 @@
 ---
 # Display name
 
-Title: Tamar Kolodny
+Title: <b>Tamar Kolodny</b>
 # Username (this should match the folder name)
 authors:
 - admin
@@ -12,15 +12,13 @@ superuser: true
 # Role/position
 
 # Organizations/Affiliations
-Description: ../author/roy-schwartz
+Description: ../author/tamar
 
 # Role/position
-#role: Professor of Natural Language Processing
 
 # Organizations/Affiliations
 organizations:
 - name: The University of Washington
-  url: "https://new.huji.ac.il/"
 
 social:
 - icon: envelope
@@ -63,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "roy.schwartz1@mail.huji.ac.il"
+email: "tamark@uw.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

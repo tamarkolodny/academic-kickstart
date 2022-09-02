@@ -4,7 +4,7 @@ authors:
 - Michael-Paul Schallmo
 - Rachel Millin
 - Alex M Kale
-- Tamar Kolodny
+- admin
 - Richard AE Edden
 - Raphael A Bernier
 - Scott O Murray

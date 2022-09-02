@@ -1,7 +1,7 @@
 ---
 title: 'Isolating response inhibition in the brain: Parietal versus frontal contribution'
 authors: 
-- Tamar Kolodny
+- admin
 - Carmel Mevorach
 - Lilach Shalev
 

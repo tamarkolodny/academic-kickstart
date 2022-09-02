@@ -2,7 +2,7 @@
 title: 'Weaker neural suppression in autism'
 authors: 
 - Michael-Paul Schallmo
-- Tamar Kolodny
+- admin
 - Alexander M Kale
 - Rachel Millin
 - Anastasia V Flevaris

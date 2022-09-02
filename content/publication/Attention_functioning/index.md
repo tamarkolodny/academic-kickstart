@@ -2,7 +2,7 @@
 title: 'Attention functioning among adolescents with multiple learning, attentional, behavioral, and emotional difficulties'
 authors: 
 - Lilach Shalev
-- Tamar Kolodny
+- admin
 - Nir Shalev
 - Carmel Mevorach
 
