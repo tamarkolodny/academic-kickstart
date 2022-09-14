@@ -16,9 +16,5 @@ publication: 'Frontiers in human neuroscience, 14, 241, 2020'
 
 links:
 url_pdf: https://doi.org/10.3389/fnhum.2020.00241
-+++
-[[url_custom]]
-    name = "Custom Link"
-    url = "http://www.example.org"
-+++
+
 ---
