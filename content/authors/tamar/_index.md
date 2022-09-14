@@ -9,7 +9,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral fellow in Neuroscience
+role: Post-doctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -37,5 +37,12 @@ social:
 
 ---
 <div style='text-align:justify'>
+I'm interested in bridging the gap between brain and behavior in neurodevelopmental conditions: to uncover the neural mechanisms that give rise to individuals’ behavioral phenotype, and to pave the path towards evidence-based biomarkers and treatments.
+<br> 
+<br>
+My current research focuses on hierarchical cortical pathways in autism and in ADHD, based upon the idea that dynamic feedback interactions between stages of processing may be the key to understanding complex behavior and its disruption.
+<br> 
+<br>
+I use a diverse set of experimental tools in my research: dimensional behavioral phenotyping, psychophysics, cognitive and neuropsychological tasks, eye tracking, computational modeling, and various imaging techniques (EEG, fMRI, diffusion MRI, and MR spectroscopy). 
 </div>
 
