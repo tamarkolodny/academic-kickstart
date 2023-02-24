@@ -17,5 +17,6 @@ publishDate: 2022-01-01
 publication: 'Brain imaging and behavior, 16, 3, 1003-1013, 2022'
 
 links:
-url_pdf: 'https://pubmed.ncbi.nlm.nih.gov/34705186/'
+ - name: full-text
+   url: 'https://doi.org/10.1007/s11682-021-00557-x'
 ---
